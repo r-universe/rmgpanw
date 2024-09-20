@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "gtexr"]
+	path = gtexr
+	url = https://github.com/rmgpanw/gtexr
 [submodule "trud"]
 	path = trud
 	url = https://github.com/rmgpanw/trud
